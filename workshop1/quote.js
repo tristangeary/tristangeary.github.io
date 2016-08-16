@@ -6,9 +6,9 @@
 
 var things = ["jazz", "house", "friends", "foes", "Bard College", "love"];
 var programmers = ["leon botstein", "criminal", "idiot", "clown", "animal", "sleeper"]
-var castles = ["museums", "bridges", "cities"]
-var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
-var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
+var castles = ["bard college", "sadness", "dinner table"]
+var exertions = ["nap", "strain", "struggle", "study", "journey", "laughter", "labor"];
+var airs = ["broccoli", "sadness", "hell", "heaven", "fire"];
 
 function choosei(lst){
     var i = Math.floor(Math.random() * lst.length);

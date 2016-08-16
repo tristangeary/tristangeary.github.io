@@ -5,7 +5,7 @@
  */
 
 var things = ["jazz", "house", "friends", "foes", "Bard College", "love"];
-var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
+var programmers = ["leon botstein", "criminal", "idiot", "clown", "animal", "sleeper"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
